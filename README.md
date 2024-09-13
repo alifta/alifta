@@ -7,10 +7,10 @@ Developer
 I am a learner and educator at heart with a few years of academic research experience (on graph theory and network science analysis, e.g., spatial-temporal network and graph neural networks) during my graduate studies. I am a programmer using Python for data analysis and JavaScript, HTML, and CSS for full-stack web development.
 
 * 🌍  I'm based in Vancouver
-* 🖥️  See my portfolio at [MyPortfolio](http://www.farrokhtala.com)
+* 🖥️  See my portfolio at [farrokhtala.com](http://www.farrokhtala.com)
 * ✉️  You can contact me at [a.farrokhtala@mun.ca](mailto:a.farrokhtala@mun.ca)
-* 🚀  I'm currently working on [Scin Web App](http://www.scin.io)
-* 🧠  I'm learning Graphql
+* 🚀  I'm currently working on blockchain project
+* 🧠  I'm learning Solidity
 
 ### Skills
 

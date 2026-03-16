@@ -1,4 +1,4 @@
-Software Engineer with 6+ years building production web platforms using React, Python (Django), and RESTful APIs. Currently working in fintech on payment integrations, API development, and production testing and troubleshooting. Background in data analysis and academic research (graph theory, network science, spatio-temporal modeling) with published peer-reviewed work. I use AI-assisted tools like GitHub Copilot, Claude, and Codex daily to ship faster and write better code.
+Software Engineer with several years of experience in building production web platforms using React, Python (Django), and RESTful APIs. Currently working in fintech on payment integrations, API development, and production testing and troubleshooting. Background in data analysis and academic research (graph theory, network science, spatio-temporal modeling) with published peer-reviewed work. I use AI-assisted tools like GitHub Copilot, Claude, and Codex daily to ship faster and write better code.
 
 - 🌍 I'm based in Canada
 - ✉️ You can contact me at [farrokhtala@gmail.com](mailto:farrokhtala@gmail.com)

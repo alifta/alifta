@@ -32,7 +32,7 @@ Software Engineer with 6+ years building production web platforms using React, P
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase&theme=light" width="40" height="40" alt="Firebase" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker&theme=light" width="40" height="40" alt="Docker" /></a>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=aws&theme=light" width="40" height="40" alt="AWS" /></a>
-<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=jira&theme=light" width="40" height="40" alt="Jira" /></a>
+<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40" alt="Jira" /></a>
 <a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=grafana&theme=light" width="40" height="40" alt="Grafana" /></a>
 <a href="https://sentry.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sentry&theme=light" width="40" height="40" alt="Sentry" /></a>
 </p>
@@ -40,7 +40,7 @@ Software Engineer with 6+ years building production web platforms using React, P
 **AI Tools**
 
 <p align="left">
-<a href="https://claude.ai/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=claude&theme=light" width="40" height="40" alt="Claude" /></a>
+<a href="https://claude.ai/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/claude/D97757" width="40" height="40" alt="Claude" /></a>
 </p>
 
 **Socials**
